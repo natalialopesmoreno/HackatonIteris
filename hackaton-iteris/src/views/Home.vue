@@ -29,6 +29,7 @@
               Sobre o Projeto
             </v-list-item-title>
           </v-list-item>
+           <router-link to="/lista">
           <v-list-item>
             <v-list-item-icon>
               <v-icon>mdi-email</v-icon>
@@ -37,6 +38,7 @@
               Cartinhas
             </v-list-item-title>
           </v-list-item>
+          </router-link>
            <v-list-item>
             <v-list-item-icon>
               <v-icon>mdi-magnify</v-icon>

@@ -1,5 +1,5 @@
 
-<template >
+<template>
     <div class="divTudo">
       <v-app>
     <v-simple-table class= "tabela" style="margin-top:50px; width:1200px; margin-left: 100px; margin-right:100px;">
@@ -38,8 +38,6 @@
       </tbody>
     </template>
   </v-simple-table>
- 
-
       </v-app>
   </div>
 </template>
