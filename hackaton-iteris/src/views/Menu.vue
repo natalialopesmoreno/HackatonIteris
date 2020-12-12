@@ -18,8 +18,8 @@
               Sobre o Projeto
             </v-list-item-title>
           </v-list-item>
-          </router-link>>
-          <router-link to=/lista>
+          </router-link>
+          <router-link to="/lista">
           <v-list-item>
             <v-list-item-icon>
               <v-icon>mdi-email</v-icon>
