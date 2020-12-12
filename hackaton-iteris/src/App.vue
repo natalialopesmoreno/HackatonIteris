@@ -7,12 +7,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import MenuLateral from './components/MenuLateral.vue'
 
 export default {
-  name: 'App',
+  name: 'App', 
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+    MenuLateral
 }
 </script>
 
